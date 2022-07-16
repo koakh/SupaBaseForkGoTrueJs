@@ -15,6 +15,7 @@ export type Provider =
   | 'twitch'
   | 'twitter'
   | 'workos'
+  | 'oryhydra'
 
 export type AuthChangeEvent =
   | 'PASSWORD_RECOVERY'
